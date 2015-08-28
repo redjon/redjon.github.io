@@ -3,7 +3,7 @@ layout: post
 title:  "MacOSX에서 git 사용하기"
 date:   2011-03-17 08:09:00
 categories: [git]
-tags: [git]
+tags: [macosx, git]
 ---
 
 git는 MacPorts로 설치할 수도 있고 git 홈페이지에서 직접 다운로드 받아 설치할 수도 있다. git 홈페이지에서 다운로드 받는 게 나은 것 같다. 여러가지로 MacPorts에는 실망스러운 점이 많아서 따로 제공되는 것이라면 그것을 받아서 설치하는 게 좋다는 게 경험에서 얻은 결론이다.
