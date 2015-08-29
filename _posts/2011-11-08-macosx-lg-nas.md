@@ -2,7 +2,7 @@
 layout: post
 title:  "Lion에서 LG NAS 접속 에러"
 date:   2011-11-08 00:40:00
-categories: [cosx]
+categories: [macosx]
 tags: [macosx]
 ---
 

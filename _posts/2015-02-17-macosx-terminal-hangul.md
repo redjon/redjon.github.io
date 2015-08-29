@@ -2,7 +2,7 @@
 layout: post
 title:  "MacOSX 터미널 한글 자동 완성"
 date:   2015-02-17 15:01
-categories: [maosx]
+categories: [macosx]
 tags: [macosx]
 ---
 
