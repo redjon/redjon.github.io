@@ -2,8 +2,8 @@
 layout: post
 title:  "Mac OSX 동영상 재생 프로그램"
 date:   2011-07-11 22:41:00
-categories: [macosx]
-tags: [macosx, software]
+categories: [macosx, apps]
+tags: [apps]
 ---
 
 Mac에서 동영상을 재생할 때
