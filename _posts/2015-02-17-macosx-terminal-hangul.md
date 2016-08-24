@@ -39,6 +39,15 @@ $ /usr/local/bin/bash
 /usr/local/bin/bash
 ```
 
+다음과 같이 기본 셸을 바꾸어준다.
+
+```
+$ chsh -s /usr/local/bin/bash 
+```
+
+
+----
+El Capitan에서는 안 되지만 예전 버전에서는 아래와 같이 할 수도 있다.
 다음으로 기본으로 실행되는 /bin/bash를 삭제하고 최신 bash로 링크를 걸어준다.
 
 ```
@@ -56,3 +65,5 @@ GNU bash, version 4.3.33(1)-release (x86_64-apple-darwin13.4.0)
 ```
 
 한글 자동 완성이 잘 될 것이다.
+
+
